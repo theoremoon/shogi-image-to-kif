@@ -1,0 +1,57 @@
+{
+  "samples": [
+    {
+      "sample_id": "commons-001",
+      "template_source": true,
+      "correct_squares": 81,
+      "errors": [],
+      "review_squares": [],
+      "board_exact_match": true
+    },
+    {
+      "sample_id": "commons-002",
+      "template_source": false,
+      "correct_squares": 81,
+      "errors": [],
+      "review_squares": [],
+      "board_exact_match": true
+    },
+    {
+      "sample_id": "commons-003",
+      "template_source": false,
+      "correct_squares": 81,
+      "errors": [],
+      "review_squares": [],
+      "board_exact_match": true
+    },
+    {
+      "sample_id": "commons-005",
+      "template_source": true,
+      "correct_squares": 81,
+      "errors": [],
+      "review_squares": [],
+      "board_exact_match": true
+    },
+    {
+      "sample_id": "commons-007",
+      "template_source": false,
+      "correct_squares": 81,
+      "errors": [],
+      "review_squares": [],
+      "board_exact_match": true
+    },
+    {
+      "sample_id": "commons-008",
+      "template_source": false,
+      "correct_squares": 81,
+      "errors": [],
+      "review_squares": [],
+      "board_exact_match": true
+    }
+  ],
+  "heldout_boards": 4,
+  "heldout_correct_squares": 324,
+  "heldout_total_squares": 324,
+  "heldout_exact_boards": 4,
+  "scope": "盤面のみ。手番は手入力、持ち駒はOCR未評価。同系統の字体を含む小規模評価。SNS全般の精度を表さない。"
+}

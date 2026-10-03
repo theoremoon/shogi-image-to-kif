@@ -1,0 +1,10 @@
+{
+  "sample_id": "commons-007",
+  "status": "reviewed",
+  "reviewer": "Codex visual inspection",
+  "sfen": "lnsgkgsn1/7b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 1",
+  "orientation": "sente_bottom",
+  "turn_source": "manual",
+  "template_source": false,
+  "notes": "手番は図から判別不能。評価用に明示した値。"
+}

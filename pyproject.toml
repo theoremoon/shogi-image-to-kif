@@ -1,0 +1,25 @@
+[project]
+name = "shogi-image-to-kif"
+version = "0.1.0"
+description = "Extract shogi positions from images for Piyo Shogi"
+requires-python = ">=3.12"
+dependencies = ["pillow>=11,<13", "opencv-python-headless>=4.10,<5", "numpy>=2,<3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.9,<1", "python-shogi>=1.1,<2", "playwright>=1.50,<2"]
+
+[project.scripts]
+shogi-image-to-kif = "shogi_image_to_kif.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/shogi_image_to_kif"]
+
+[tool.ruff]
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

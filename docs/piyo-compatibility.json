@@ -1,0 +1,32 @@
+{
+  "source_url": "https://www.studiok-i.net/ps/ps_2_shogi.min.js",
+  "source_sha256": "1a29a62e927fcdfa45cf4abb903f236b6be26d926737573030c679b6057fe9d3",
+  "checked_at": "2026-10-03",
+  "method": "Unmodified public BOD2SFEN parser, executed in a Node VM with browser globals stubbed",
+  "results": [
+    {
+      "name": "平手",
+      "expected_sfen": "lnsgkgsnl/1r5b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL b - 1",
+      "actual_sfen": "lnsgkgsnl/1r5b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL b - 1",
+      "match": true
+    },
+    {
+      "name": "後手番・飛車落ち",
+      "expected_sfen": "lnsgkgsnl/7b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 1",
+      "actual_sfen": "lnsgkgsnl/7b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 1",
+      "match": true
+    },
+    {
+      "name": "成駒と双方の持ち駒",
+      "expected_sfen": "4k4/9/2+r6/3+b5/4+s4/5+n3/6+l2/7+p1/4K4 w RBGSNL10P2p 1",
+      "actual_sfen": "4k4/9/2+r6/3+b5/4+s4/5+n3/6+l2/7+p1/4K4 w RBGSNL10P2p 1",
+      "match": true
+    },
+    {
+      "name": "詰将棋・玉片側",
+      "expected_sfen": "4k4/9/9/9/9/9/9/9/9 b R2P 1",
+      "actual_sfen": "4k4/9/9/9/9/9/9/9/9 b R2P 1",
+      "match": true
+    }
+  ]
+}

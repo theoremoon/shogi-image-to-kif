@@ -1,0 +1,28 @@
+{
+  "url": "https://www.studiok-i.net/ps/",
+  "checked_at": "2026-10-03",
+  "method": "Live web app in Chromium: initGame(false), readKif(kif), getCurrentBoardSFEN()",
+  "results": [
+    {
+      "name": "平手",
+      "imported_sfen": "lnsgkgsnl/1r5b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL b - 1",
+      "match": true
+    },
+    {
+      "name": "後手番・飛車落ち",
+      "imported_sfen": "lnsgkgsnl/7b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 1",
+      "match": true
+    },
+    {
+      "name": "成駒と双方の持ち駒",
+      "imported_sfen": "4k4/9/2+r6/3+b5/4+s4/5+n3/6+l2/7+p1/4K4 w RBGSNL10P2p 1",
+      "match": true
+    },
+    {
+      "name": "詰将棋・玉片側",
+      "imported_sfen": "4k4/9/9/9/9/9/9/9/9 b R2P 1",
+      "match": true
+    }
+  ],
+  "limitations": "スマホ版アプリの実機確認は含まない。"
+}

@@ -1,0 +1,1131 @@
+[
+  {
+    "id": "commons-001",
+    "file": "raw/2017-06-03a.png",
+    "title": "File:2017-06-03a.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2017-06-03a.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/2017-06-03a.png",
+    "kind": "diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_kakiuchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H kakiuchi (page does not exist)\">H kakiuchi</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-06-03 16:45:48",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2017-06-03a",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "shogi",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-06-03",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_kakiuchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H kakiuchi (page does not exist)\">H kakiuchi</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "reviewed",
+    "sfen": "ln2k2nl/1r1sg1gb1/p1pppp3/6pBp/9/4P4/P1PP1P2P/1PG2S1R1/LN2KG1NL b S2P 1",
+    "split_group": "commons-2017",
+    "sha256": "20cd28536c698ad60c2f3d0be8dd8a2675dee5c6712b69706851467b614b928c",
+    "bytes": 24970,
+    "turn_source": "manual",
+    "template_source": true
+  },
+  {
+    "id": "commons-002",
+    "file": "raw/2017-06-03d.png",
+    "title": "File:2017-06-03d.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2017-06-03d.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/2017-06-03d.png",
+    "kind": "diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_kakiuchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H kakiuchi (page does not exist)\">H kakiuchi</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-06-03 16:46:30",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2017-06-03d",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "shogi",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-06-03",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_kakiuchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H kakiuchi (page does not exist)\">H kakiuchi</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "reviewed",
+    "sfen": "lnsgk1snl/6g2/p1pppp1pp/5bp2/9/7r1/PPPP1PP1P/2GS1S1R1/LNBK1G1NL b - 1",
+    "split_group": "commons-2017",
+    "sha256": "3c54ba086ff7ecd931bc7094c9db3f27e3d844a1b3a4c45b0554291ab62a0014",
+    "bytes": 23956,
+    "turn_source": "manual",
+    "template_source": false
+  },
+  {
+    "id": "commons-003",
+    "file": "raw/2017-06-04a.png",
+    "title": "File:2017-06-04a.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2017-06-04a.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2017-06-04a.png",
+    "kind": "diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_kakiuchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H kakiuchi (page does not exist)\">H kakiuchi</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-06-03 16:48:21",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2017-06-04a",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "shogi",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-06-03",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_kakiuchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H kakiuchi (page does not exist)\">H kakiuchi</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "reviewed",
+    "sfen": "lnkg2snl/2s1gr1b1/pppppp1pp/6p2/1P7/4P4/P1PPSPPPP/1R7/LNBGKGSNL b - 1",
+    "split_group": "commons-2017",
+    "sha256": "52fca97549ea2cf02697f441d2bc721f1b45caa79889e3f7db5ed3b40da5089b",
+    "bytes": 26246,
+    "turn_source": "manual",
+    "template_source": false
+  },
+  {
+    "id": "commons-004",
+    "file": "raw/Castello funa.jpg",
+    "title": "File:Castello funa.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Castello_funa.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Castello_funa.jpg",
+    "kind": "diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-18 06:23:01",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Castello funa",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "funa gakoi",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-04-18",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "unlabeled",
+    "sfen": null,
+    "split_group": "File:Castello funa.jpg",
+    "sha256": "93554e3c7530664238fa6cf3940db89c61f268b9bedaea6569a23ad81e0cf72e",
+    "bytes": 26360
+  },
+  {
+    "id": "commons-005",
+    "file": "raw/Castello mino.png",
+    "title": "File:Castello mino.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Castello_mino.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Castello_mino.png",
+    "kind": "diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-18 06:20:47",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Castello mino",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "mino gakoi",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-04-18",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "reviewed",
+    "sfen": "lnsgkgsnl/1r5b1/ppppppppp/9/9/8P/PPPPPPPP1/1B1RG1SK1/LNS2G1NL b - 1",
+    "split_group": "File:Castello mino.png",
+    "sha256": "566fe30f92c7be89933587438e0f388aff2a8d33fbfdf3234bdb2efc50faa56f",
+    "bytes": 32983,
+    "turn_source": "manual",
+    "template_source": true
+  },
+  {
+    "id": "commons-006",
+    "file": "raw/Fujii.png",
+    "title": "File:Fujii.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fujii.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fujii.png",
+    "kind": "non-board",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Ish_ishwar\" title=\"User:Ish ishwar\">Ish ishwar</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2019-11-16 00:26:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Fujii",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Yoshiharu Habu|Professional shogi players|License migration redundant|Akira Watanabe (shogi)|Akihito Hirose|Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "藤井聡太 <a href=\"https://en.wikipedia.org/wiki/S%C5%8Dta_Fujii\" class=\"extiw\" title=\"w:Sōta Fujii\">Sōta Fujii</a>'s Elo rating since his debut up until 2019 Nov 14 with comparison <a href=\"https://en.wikipedia.org/wiki/Elo_rating_system\" class=\"extiw\" title=\"w:Elo rating system\">Elo ratings</a> of other strong players sampled per game day (if more than one game on a day then the Elo score at the day's end). The thin grey (unlabeled) line is the median Elo of all <a href=\"https://en.wikipedia.org/wiki/professional_shogi_player\" class=\"extiw\" title=\"w:professional shogi player\">professional shogi players</a> sampled monthly at month's end. The unofficial Elo data is calculated by a shogi fan's site: <a rel=\"nofollow\" class=\"external free\" href=\"http://kishibetsu.com/ranking/2019.html\">http://kishibetsu.com/ranking/2019.html</a>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ish_ishwar\" title=\"User:Ish ishwar\">Ish ishwar</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "unlabeled",
+    "sfen": null,
+    "split_group": "File:Fujii.png",
+    "sha256": "5ba674b8163f0bfae0f22dca2f2d4a90cccfdc05daf1844288d15ded106380ea",
+    "bytes": 627527,
+    "notes": "将棋棋士のレーティング推移グラフ。9×9盤面の拒否例。"
+  },
+  {
+    "id": "commons-007",
+    "file": "raw/Hikyou ochi.png",
+    "title": "File:Hikyou ochi.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hikyou_ochi.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Hikyou_ochi.png",
+    "kind": "diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-16 15:19:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hikyou ochi",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "handicap senza torre e lancia sinistra",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-04-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "reviewed",
+    "sfen": "lnsgkgsn1/7b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 1",
+    "split_group": "File:Hikyou ochi.png",
+    "sha256": "af63311d041d8841726172d376857767ff6d51315e6d150e9c6c699ebc61f588",
+    "bytes": 55758,
+    "turn_source": "manual",
+    "template_source": false
+  },
+  {
+    "id": "commons-008",
+    "file": "raw/Hisha ochi.png",
+    "title": "File:Hisha ochi.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hisha_ochi.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hisha_ochi.png",
+    "kind": "diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-16 15:17:50",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hisha ochi",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "handicap senza torre",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-04-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "reviewed",
+    "sfen": "lnsgkgsnl/7b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 1",
+    "split_group": "File:Hisha ochi.png",
+    "sha256": "cfecccf2b834856b9df61bd79c6e093c8f1a590f7bb985d287469d711c48c48f",
+    "bytes": 71151,
+    "turn_source": "manual",
+    "template_source": false
+  },
+  {
+    "id": "commons-009",
+    "file": "raw/Ice screenshot 20210416-082704.png",
+    "title": "File:Ice screenshot 20210416-082704.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ice_screenshot_20210416-082704.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ice_screenshot_20210416-082704.png",
+    "kind": "partial-diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-16 06:28:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ice screenshot 20210416-082704",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Generale oro",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-04-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "unlabeled",
+    "sfen": null,
+    "split_group": "commons-ice",
+    "sha256": "9d99713f836cd1f44ed5567509baac2462862948517aedd595e89feee372fb5a",
+    "bytes": 55227,
+    "notes": "切り抜かれた駒の動き説明図。9×9局面認識の評価対象ではなく、盤検出の拒否例。"
+  },
+  {
+    "id": "commons-010",
+    "file": "raw/Ice screenshot 20210416-083234.png",
+    "title": "File:Ice screenshot 20210416-083234.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ice_screenshot_20210416-083234.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ice_screenshot_20210416-083234.png",
+    "kind": "partial-diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-16 06:33:32",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ice screenshot 20210416-083234",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Cavallo",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-04-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "unlabeled",
+    "sfen": null,
+    "split_group": "commons-ice",
+    "sha256": "3c8d4f3d21512674a1bb6d423cd691caf12344cfdbdeec76620f8fd99c8cd05f",
+    "bytes": 47022,
+    "notes": "切り抜かれた駒の動き説明図。9×9局面認識の評価対象ではなく、盤検出の拒否例。"
+  },
+  {
+    "id": "commons-011",
+    "file": "raw/Ice screenshot 20210416-084707.png",
+    "title": "File:Ice screenshot 20210416-084707.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ice_screenshot_20210416-084707.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ice_screenshot_20210416-084707.png",
+    "kind": "variant-board",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-16 06:47:44",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ice screenshot 20210416-084707",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Sho shogi",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-04-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "unlabeled",
+    "sfen": null,
+    "split_group": "commons-ice",
+    "sha256": "701e9d3b067545ecc25b57a4fd1cbff26808645b0f86669a70f657cf38b6c0a6",
+    "bytes": 8848,
+    "notes": "本将棋にない駒を含む9×9盤面。未対応駒を要確認にする拒否例。"
+  },
+  {
+    "id": "commons-012",
+    "file": "raw/Ichinose ryu.png",
+    "title": "File:Ichinose ryu.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ichinose_ryu.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ichinose_ryu.png",
+    "kind": "annotated-diagram",
+    "retrieved_at": "2026-10-03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ijnuj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ijnuj (page does not exist)\">Ijnuj</a>",
+    "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "metadata": {
+      "DateTime": {
+        "value": "2019-02-25 15:27:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ichinose ryu",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Shogi diagrams",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "将棋の駒、一瀬流の並べ方の順番を記載。",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-02-25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ijnuj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ijnuj (page does not exist)\">Ijnuj</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "annotation_status": "unlabeled",
+    "sfen": null,
+    "split_group": "File:Ichinose ryu.png",
+    "sha256": "ebd6710954ebc79a4e80abeb70fef8f0e6129a167a7aa0a04d306a6690babf01",
+    "bytes": 5118,
+    "notes": "先手駒の位置が数値で置き換えられた説明図。要確認例。"
+  }
+]

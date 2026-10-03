@@ -1,0 +1,9 @@
+{
+  "reference": "wars-play",
+  "count": 80,
+  "source_url": "https://shogiwars.heroz.jp/qa?locale=ja&num=29",
+  "distribution": "Shape-reference data included in browser runtime; source screenshots remain local-only",
+  "heldout": "wars-mate",
+  "rights_holder": "HEROZ / respective rights holders; not covered by app MIT license",
+  "image_sha256": "0284a5ebc3307dce85b39f80172dbb467b14f27cce1fb0ba227947fecc20157c"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "commons-001",
+  "status": "reviewed",
+  "reviewer": "Codex visual inspection",
+  "sfen": "ln2k2nl/1r1sg1gb1/p1pppp3/6pBp/9/4P4/P1PP1P2P/1PG2S1R1/LN2KG1NL b S2P 1",
+  "board_bounds": [
+    58,
+    98,
+    589,
+    630
+  ],
+  "orientation": "sente_bottom",
+  "turn_source": "manual",
+  "template_source": true,
+  "notes": "手番は図から判別不能。評価用に明示した値。"
+}

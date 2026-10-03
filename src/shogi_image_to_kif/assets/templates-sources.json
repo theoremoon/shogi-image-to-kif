@@ -1,0 +1,27 @@
+{
+  "reference_images": [
+    {
+      "id": "commons-001",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2017-06-03a.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:H_kakiuchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:H kakiuchi (page does not exist)\">H kakiuchi</a>",
+      "sha256": "20cd28536c698ad60c2f3d0be8dd8a2675dee5c6712b69706851467b614b928c"
+    },
+    {
+      "id": "commons-005",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Castello_mino.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Calogeroa.salomon\" title=\"User:Calogeroa.salomon\">Calogeroa.salomon</a>",
+      "sha256": "566fe30f92c7be89933587438e0f388aff2a8d33fbfdf3234bdb2efc50faa56f"
+    }
+  ],
+  "rendered_fonts": [
+    "ヒラギノ明朝 ProN.ttc",
+    "ヒラギノ角ゴシック W6.ttc",
+    "CJKSymbolsFallback.ttc",
+    "ヒラギノ角ゴシック W3.ttc"
+  ],
+  "count": 312
+}

@@ -1,0 +1,43 @@
+{
+  "cases": [
+    {
+      "id": "wars-play",
+      "auto_bounds": [
+        5.0,
+        69.0,
+        298.0,
+        384.0
+      ],
+      "auto_error": null,
+      "manual_bounds": [
+        4,
+        68,
+        296,
+        389
+      ],
+      "unknown_squares": 0,
+      "review_squares": 2,
+      "accuracy": null
+    },
+    {
+      "id": "wars-mate",
+      "auto_bounds": [
+        7.0,
+        82.0,
+        294.0,
+        396.0
+      ],
+      "auto_error": null,
+      "manual_bounds": [
+        5,
+        80,
+        297,
+        399
+      ],
+      "unknown_squares": 0,
+      "review_squares": 10,
+      "accuracy": null
+    }
+  ],
+  "note": "Collection diagnostics only; counts are not accuracy. Run setup_wars.py for model construction and labeled evaluation."
+}
